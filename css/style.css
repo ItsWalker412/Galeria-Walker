@@ -89,7 +89,7 @@ div.light_square .pp_previous:hover {background-position:bottom}
 .link1 {color:#fff;text-decoration:none}
 .link1:hover {text-decoration:underline}
 /* ============================= footer ====================== */
-footer {font-size:16px;text-transform:uppercase;font-weight:400;line-height:40px;position:relative;padding:24px 0 0 0;letter-spacing:-1px}
+footer {font-size:16px;text-transform:uppercase;font-weight:400;line-height:20px;position:relative;padding:24px 0 0 0;letter-spacing:-1px}
 footer a {color:#fff;text-decoration:none}
 footer a:hover {color:#808080}
 .col_1 {width:360px;float:left}
